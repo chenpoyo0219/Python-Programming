@@ -3,7 +3,7 @@ import glob
 import os
 
 # 設定您的資料夾路徑
-DATA_FOLDER = r'C:\Users\邵川祐\Desktop\Assignments\Python程式設計\bus_132'
+DATA_FOLDER = r'Path'
 OUTPUT_FILE = os.path.join(DATA_FOLDER, 'bus_time_15_final.xlsx')
 
 # 1. 定義 132 公車的標準站名順序 (根據您提供的 20 個站點)
